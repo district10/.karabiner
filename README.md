@@ -1,6 +1,6 @@
 # .karabiner
 
-My karabiner configuration.
+My [karabiner](https://pqrs.org/osx/karabiner/complex_modifications/) configuration.
 
 Usage:
 
