@@ -163,11 +163,11 @@
                         ]
                     },
                     {
-                        "description": "Navigation: Change fn + I/J/K/L to Arrow Keys, U/O to PgUp/PgDown, H/; to Home/End",
+                        "description": "Navigation: Home/End, PgUp/PgDown, Arrow Keys",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "h",
+                                    "key_code": "u",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
@@ -186,7 +186,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "semicolon",
+                                    "key_code": "o",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
@@ -205,7 +205,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "u",
+                                    "key_code": "y",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
@@ -224,7 +224,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "o",
+                                    "key_code": "p",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
