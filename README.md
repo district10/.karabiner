@@ -12,12 +12,22 @@ $ git clone git@github.com:district10/.karabiner.git ~/.config/karabiner
 
 It's a dual-role key.
 
-## Fn+{I/J/K/L,H/;,U/O} -> {Arrow Keys, Home/End, PgUp/PgDown}
+## Fn+{I/J/K/L,U/O,Y/P} -> {Arrow Keys, Home/End, PgUp/PgDown}
 
 Navigations.
+
+## Fn+{H/N,M} -> {Backspace/Delete, Return}
+
+Deletions & return.
 
 ---
 
 TODO:
 
 -   Fully port 3rd layout of neo keyboard to macOS
+
+---
+
+DOC:
+
+-   [Keyname definitions](https://github.com/tekezo/Karabiner-Elements/blob/master/src/apps/PreferencesWindow/PreferencesWindow/Resources/simple_modifications.json)
