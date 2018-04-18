@@ -10,7 +10,10 @@ $ git clone git@github.com:district10/.karabiner.git ~/.config/karabiner
 
 ## Capslock -> Escape/Control
 
-It's a dual-role key.
+It's a dual-role key, aka:
+
+-   CapsLock -> Escape
+-   CapsLock+OtherKeys -> Control+OtherKeys
 
 ## Fn+{I/J/K/L,U/O,Y/P} -> {Arrow Keys, Home/End, PgUp/PgDown}
 
